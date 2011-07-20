@@ -1,0 +1,102 @@
+body {
+  background-color: #fff;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 0.6em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 0.8em;
+}
+
+p {
+  margin-bottom: 1.8em;
+  line-height: 1.8em;
+}
+
+#wrapper {
+  margin: 0 auto;
+  width: 585px;
+}
+
+#header {
+  clear: left;
+  width: 100%;
+}
+
+#menu {
+}
+
+#menu ul {
+  list-style: none;
+  width: ;
+  height: 30px;
+  display: block;
+  width: 100%;
+}
+
+#menu ul li {
+  border-top: 1px solid #ccc;
+  display: block;
+  float: left;
+}
+
+#menu li a {
+  width: 117px;
+  text-align: center;
+  display: block;
+}
+
+#content {
+}
+
+.clear {
+  clear: both;
+}
+
+div.image.quote {
+  margin-bottom: 1.9em;
+  width: 75%;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.image.quote blockquote {
+  color: #777;
+  font-size: 1.4em;
+  display: block;
+  float: right;
+  width: 60%;
+}
+
+.image.quote img {
+  float: left;
+}
+
+.image.quote span {
+  color: #ccc;
+  float: right;
+  width: 60%;
+  display: block;
+}
+
+div.figure {
+  position: relative; 
+}
+
+div.figure span {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: #000;
+  margin: 0;
+  width: 100%;
+  opacity: 0.8;
+  filter: alpha(opacity=0.8);
+  color: #fff;
+}
+
+
