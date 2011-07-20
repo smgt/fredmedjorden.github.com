@@ -83,7 +83,7 @@ bedrivas med största hänsyn till helheten. Eller som Elin Wägner skriver
 i den lilla boken FRED MED JORDEN: ”Allt som stör naturens självverksam
 måste bort, eller också vi.”
 
-<div class="figure">
+<div class="figure" style="width:204px;height:131px" >
   <img src="/img/florysshus.jpg" alt="Flory Gates hus" class="figure"/>
   <span>Flory Gates hus</span>
 </div>
